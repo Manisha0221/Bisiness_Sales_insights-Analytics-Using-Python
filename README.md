@@ -57,4 +57,4 @@ Adding predictive analytics using machine learning models.
 # Contact Information
 If you have any questions or feedback, reach out:
 
-LinkedIn: Manisha Chaudhari
+LinkedIn: www.linkedin.com/in/manisha-chaudhari
